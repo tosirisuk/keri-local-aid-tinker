@@ -10,9 +10,14 @@ Navigate to the scripts directory
 cd scripts
 ```
 
-Load the environment
+Load the bash environment variables
 
 ```bash
 source source.sh "<your local aid name>"
+```
+
+KERI Init and Incept through the `kli command`
+
+```bash
 ./create-local-aid.sh
 ```
