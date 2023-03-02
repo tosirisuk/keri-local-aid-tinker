@@ -13,6 +13,6 @@ cd scripts
 Load the environment
 
 ```bash
-source source.sh `<your local aid name>`
+source source.sh "<your local aid name>"
 ./create-local-aid.sh
 ```
